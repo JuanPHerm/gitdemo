@@ -16,6 +16,6 @@ public class Enemy : MonoBehaviour
 
     void Greetings()
     {
-        Debug.Log("Holiiis XD <3");
+        Debug.Log("Haru urara is bad");
     }
 }
